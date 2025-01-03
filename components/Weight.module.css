@@ -1,0 +1,19 @@
+.weight {
+    position: relative;
+    text-align: center;
+    width: 70px;
+}
+
+.weight img {
+    width: 40px;
+}
+
+.answer {
+    position: absolute;
+    top: -50px;
+    left: -35px;
+    width: 100px;
+    font-weight: bold;
+    word-break: keep-all;
+    text-align: center;
+}
