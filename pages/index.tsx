@@ -5,12 +5,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title> 코딩캠퍼스 언플러그드 </title>
+        <title> 코딩그라운드 언플러그드 </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to CR02 Course! </h1>
+        <h1 className={styles.title}>Welcome to Gold 01 Course! </h1>
 
         <p className={styles.description}>
           파이썬과 함께 떠나는 컴퓨터 과학 산책
@@ -98,7 +98,7 @@ export default function Home() {
           </a>
         </div>
       </main>
-      <footer className={styles.footer}>코딩캠퍼스</footer>
+      <footer className={styles.footer}>코딩그라운드</footer>
     </div>
   );
 }
